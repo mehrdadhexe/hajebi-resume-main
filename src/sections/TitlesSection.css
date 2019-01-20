@@ -1,5 +1,5 @@
 .first {
-    background-color: cadetblue;
+   
    
 }
 
@@ -13,10 +13,7 @@
 .icon {
     margin: 10px;
 }
-.DownIcon{
-    background-color: aquamarine;
 
-}
 .DownIcon {
     -webkit-animation: mover 1s infinite  alternate;
     animation: mover 1s infinite  alternate;

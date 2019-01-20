@@ -10,7 +10,7 @@ const DownIcon = (props) => {
           alignItems: "center",
           justifyContent: "center",
           marginBottom: "-34px",
-          transform: "translateY(-45px)"
+          transform: "translateY(-100px)"
         }}
       >
         <div

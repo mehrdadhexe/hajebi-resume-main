@@ -1,26 +1,19 @@
 {
-    "title": "Hello I'm Soorena!",
+    "title": "Hello I'm Hajebi!",
     "subtitle": "Full Stack Dev | Open-Source Enthusiast",
     "links": {
-        "github": "https://github.com/iamsoorena",
-        "stackoverflow": "https://stackoverflow.com/story/iamsoorena",
-        "linkedin": "https://ir.linkedin.com/in/iamsoorena"
+        "github": "https://github.com/mehrdadhexe",
+        "ponisha": "https://ponisha.ir/profile/hajebiii",
+        "linkedin": "https://www.linkedin.com/in/hajebi"
     },
     "sections": [
         {
             "title": "About",
             "items": [
+              
                 {
                     "type": "p",
-                    "content": "I love to learn."
-                },
-                {
-                    "type": "p",
-                    "content": "I beleive in self-learning."
-                },
-                {
-                    "type": "p",
-                    "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
+                    "content": "I am Mehrdad Hajebi. Born in 1372 from Roodan, Hormozgan province, I have been working as a web designer for over four years and thank God. I have a good job."
                 }
             ]
         },
@@ -73,6 +66,29 @@
         }
     ],
     "icons": {
-        "down": "images/down.png"
-    }
+        "down": "images/down.png",
+        "theme":"images/theme.png"
+    },
+
+    "themes":[
+         {   "name":"th1",
+             "background_color":"#e84393",
+             "color":"#81ecec"
+         },
+         {
+            "name":"th2",
+            "background_color":"#2d3436",
+            "color":"#a29bfe"
+        },
+        {
+            "name":"th3",
+            "background_color":"#dfe6e9",
+            "color":"#e84393"
+        },
+        {
+            "name":"th4",
+            "background_color":"#2d3436",
+            "color":"#74b9ff"
+        }
+        ]
 }
