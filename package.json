@@ -1,8 +1,8 @@
 {
-  "name": "hajebi-resume",
+  "name": "hajebi-resume-main",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mehrdadhexe.github.io/hajebi-resume",
+  "homepage": "https://mehrdadhexe.github.io/hajebi-resume-main",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
