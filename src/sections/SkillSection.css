@@ -1,0 +1,10 @@
+.third {
+    background-color: #fff;
+}
+
+.cards-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
